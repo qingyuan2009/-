@@ -167,7 +167,7 @@ input, select, textarea {
 	}
 
 	p span{
-		font-size:120%;		
+		font-size:110%;		
 		font-weight:bold;			
 	}
 
@@ -213,8 +213,8 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1.1em;
-	}
+		font-size: 1.2em;
+	}	
 
 	h3 {
 		font-size: 1em;
@@ -230,7 +230,7 @@ input, select, textarea {
 
 	h6 {
 		font-size: 0.8em;
-	}
+	}	
 
 	@media screen and (max-width: 980px) {
 
